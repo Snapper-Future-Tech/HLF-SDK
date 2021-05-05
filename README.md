@@ -4,15 +4,23 @@ sdk for accessing blockchain network on server
 # Edit the /etc/hosts file on your local machine with the Server IP address and the Containers running on it.
 # For Example
 
-20.198.1.28     ca.org1.example.com
-20.198.1.28     ca.org2.example.com
-20.198.1.28     peer0.org1.example.com
-20.198.1.28     peer1.org1.example.com
-20.198.1.28     peer0.org2.example.com
-20.198.1.28     peer1.org2.example.com
-20.198.1.28     orderer.example.com
-20.198.1.28     orderer2.example.com
-20.198.1.28     orderer3.example.com
+{VM IP address}     ca.org1.example.com
+
+{VM IP address}     ca.org2.example.com
+
+{VM IP address}     peer0.org1.example.com
+
+{VM IP address}     peer1.org1.example.com
+
+{VM IP address}     peer0.org2.example.com
+
+{VM IP address}     peer1.org2.example.com
+
+{VM IP address}     orderer.example.com
+
+{VM IP address}     orderer2.example.com
+
+{VM IP address}     orderer3.example.com
 
 
 ### Replace the IP address in Constant.json
