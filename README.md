@@ -94,4 +94,4 @@ curl -s -X GET \
 http://20.193.230.28:{External Port}/channels/mychannel/chaincodes/{Chaincode Name}?args=["{Key}"]&peer=peer0.org1.example.com&fcn={Chaincode query function}
 
 
-################# 
+
